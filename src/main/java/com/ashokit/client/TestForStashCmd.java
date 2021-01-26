@@ -7,7 +7,7 @@ public class TestForStashCmd {
 		
 		//---------HIS-122 is my current JIRA Task  i am working on it now at 8 am----
 		
-		System.out.println("----HIS-122---------");
+		System.out.println("----HIS-122 is done at 12 pm---------");
 	}
 
 }
