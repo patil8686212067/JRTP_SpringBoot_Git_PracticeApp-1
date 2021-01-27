@@ -9,9 +9,11 @@ public class GitCommandPracticeApp1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(GitCommandPracticeApp1Application.class, args);
 
-		//---suddenlty reqirement came from TL work on This HIS-143 JIRA Id Which urgently need----
+		int x=20;
+		int y=50;
+		//---suddenlty reqirement came from TL work on This HIS-102 JIRA Id Which urgently need----
 
-		System.out.println("------------HIS-143-----------");
+		System.out.println("------------HIS-102-----------");
 	}
 
 }
